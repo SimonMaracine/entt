@@ -7,7 +7,7 @@
 #include <utility>
 #include "../core/iterator.hpp"
 #include "../core/type_traits.hpp"
-#include "fwd.hpp"
+#include "fwd.hpp" // IWYU pragma: export
 
 namespace entt {
 
